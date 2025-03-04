@@ -1,13 +1,13 @@
 html {
     background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
     color: chocolate;
     font-size: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 main {
@@ -17,26 +17,6 @@ main {
 h2 {
     color: chocolate;
     font-size: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-button {
-    display: block;
-    margin-left: 100px;
-}
-
-iframe {
-    display: block;
-    margin-left: 110px;
-
 }
 
 footer {
